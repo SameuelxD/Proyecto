@@ -1,0 +1,17 @@
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.AssemblyInfo.cs
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Proyecto.exe
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Proyecto.deps.json
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Proyecto.runtimeconfig.json
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Proyecto.dll
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Proyecto.pdb
+C:\Users\APM02-48\Documents\Proyecto\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.csproj.CopyComplete
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.dll
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\refint\Proyecto.dll
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.pdb
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\Proyecto.genruntimeconfig.cache
+C:\Users\APM02-48\Documents\Proyecto\obj\Debug\net7.0\ref\Proyecto.dll
