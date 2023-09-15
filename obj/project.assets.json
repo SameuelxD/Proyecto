@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\APM02-48\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APM02-48\\Documents\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "/workspaces/Proyecto/Proyecto.csproj",
       "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\APM02-48\\Documents\\Proyecto\\Proyecto.csproj",
-      "packagesPath": "C:\\Users\\APM02-48\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APM02-48\\Documents\\Proyecto\\obj\\",
+      "projectPath": "/workspaces/Proyecto/Proyecto.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/Proyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APM02-48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/7.0.400/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

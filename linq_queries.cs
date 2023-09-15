@@ -43,5 +43,13 @@ namespace Proyecto
             }
             return new List<book>();
         }
+        public bool Coincidencias(){
+            Console.WriteLine("Ingrese la palabra a buscar: ");
+            string palabra=Console.ReadLine()
+            return listBooks.Contains(palabra);
+        }
+        public IEnumerable<book> BuscarPalabra(){
+
+        }
     }
 }
