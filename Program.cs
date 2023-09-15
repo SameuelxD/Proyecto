@@ -9,7 +9,8 @@ internal class Program
         Console.WriteLine(args2[0]);
         linq_queries queries = new linq_queries();
         /*Console.WriteLine(queries.LibrosStatus() ? "Todos los libros contienen status" : "Almenos uno de los libros no contiene status");*/
-        ImprimirValores(queries.ListaLibros2005());
+        //ImprimirValores(queries.ListaLibros2005());
+        Console.WriteLine(queries.Coincidencias());
 
     }
     private static void ImprimirValores(IEnumerable<book> books)
